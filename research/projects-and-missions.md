@@ -53,13 +53,15 @@ NASA describes OSIRIS-REx as a sample-return mission to asteroid Bennu. It colle
 
 ## 3. Discovery program and Lucy
 
-The UNESCO profile updated in September 2026 separately lists Ocampo as a former Discovery Program executive and associates her with Lucy, Juno, and New Horizons. This suggests a broader history of program responsibilities than the three New Frontiers missions named in NASA's 2022 Spanish biography. These program labels should not be merged: Lucy is a Discovery mission, whereas New Horizons, Juno, and OSIRIS-REx are associated with New Frontiers.
+The UNESCO profile updated in September 2026 lists Ocampo as both a former New Frontiers lead executive and a former Discovery Program executive. Its French-language parenthetical groups Lucy, Juno, and New Horizons near the Discovery entry, which is ambiguous when compared with the more explicit 2022 UNOOSA biography: that document identifies Juno, New Horizons, and OSIRIS-REx as her New Frontiers portfolio. NASA separately identifies Lucy as its 13th Discovery Program mission. To avoid carrying a possible classification error forward, this dossier treats Lucy as Discovery and Juno, New Horizons, and OSIRIS-REx as New Frontiers, while preserving the ambiguity in the current UNESCO entry as a source limitation.
 
 NASA describes Lucy as the first spacecraft mission to explore Jupiter's Trojan asteroids, primitive bodies thought to retain clues about the formation and evolution of the Solar System. NASA's current page says the mission will visit a record-breaking number of asteroids over its long journey.
 
 - Mission overview: [NASA Science — Lucy](https://science.nasa.gov/mission/lucy/)
 - Role and program-history source: [UNESCO COMEST directory](https://www.unesco.org/fr/ethics-science-technology/comest?hl=es-PE).
 
+
+Program classification sources: [NASA — Lucy mission overview](https://science.nasa.gov/mission/lucy/mission-overview/); [NASA Planetary Science Programs](https://science.nasa.gov/planetary-science/programs/); [UNOOSA/APOSCOS conference program (2022)](https://www.unoosa.org/documents/pdf/copuos/stsc/2022/APSCOSymposiumDuringSTSC-ProgramOutline10Feb2022.pdf).
 ## 4. Venus: international mission and strategy work
 
 A 2022 UNOOSA/APOSCOS conference program identifies Ocampo as Lead Venus Scientist responsible for NASA's collaboration with ESA's Venus Express and JAXA's Venus Climate Orbiter Akatsuki and for Venus Exploration Analysis Group (VEXAG) strategic plans and assessments. NASA en Español's 2022 profile also reports that she was collaborating with ESA on strategic planning for Venus exploration.
