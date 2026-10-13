@@ -140,3 +140,8 @@ Caution: historical snapshot, not current position.
 - **Open:** exact departure date from NASA, complete publication list, detailed foundation outputs, and the official minor-planet naming citation.
 
 URLs were checked on 13 October 2026. Some source pages may later change or disappear; this is why access date and source context are recorded.
+
+### 21. NASA — Planetary Science Programs
+URL: https://science.nasa.gov/planetary-science/programs/  
+Source type: official NASA program overview.  
+Useful for: distinguishing NASA Discovery from New Frontiers program context, alongside NASA's specific Lucy mission documentation. This supports careful categorization of Lucy separately from New Horizons, Juno and OSIRIS-REx.
