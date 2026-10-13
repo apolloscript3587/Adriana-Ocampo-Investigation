@@ -45,6 +45,10 @@ Search snippets, derivative biographies, and unreferenced profile sites may sugg
 
 There is a genuine conflict in page freshness. NASA's profile still lists her as a NASA Headquarters scientist, but its metadata says it was last updated in November 2024. UNESCO's directory updated in September 2026 calls the NASA positions former and lists UCF/COMEST roles; UCF also lists her as Courtesy Research Professor. The dossier follows the latest dated institutional evidence and does not invent an exact NASA exit date.
 
+### Mission-program classification
+
+The UNESCO COMEST page updated in September 2026 provides a compressed French-language description of Ocampo's former Discovery and New Frontiers roles. A parenthetical in that current listing associates Lucy, Juno, and New Horizons near the Discovery Program entry, while the UNOOSA/APOSCOS conference bio from 2022 explicitly places Juno, New Horizons, and OSIRIS-REx under the New Frontiers Lead Program Executive role. NASA's current Lucy mission overview independently identifies Lucy as the 13th Discovery Program mission. The dossier follows those explicit program sources and records that the latest UNESCO wording is ambiguous. It does not infer a complete assignment history from that parenthetical.
+
 ### Chicxulub attribution
 
 NASA's profile uses concise language describing research led by Ocampo. The 1993 peer-reviewed article is co-authored by Pope, Ocampo and Duller, and other geophysics and geological studies contributed to the identification and acceptance of Chicxulub. The dossier credits Ocampo as a significant researcher in the collaborative identification and mapping of the cenote ring and buried structure rather than as the sole discoverer.
